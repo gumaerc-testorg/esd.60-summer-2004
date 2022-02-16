@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-60-lean-six-sigma-processes-summer-2004/a248da1c27a42c4a18c33898137fae5c_5_2supply_align.pdf
+file: /media/courses/esd-60-lean-six-sigma-processes-summer-2004/a248da1c27a42c4a18c33898137fae5c_5_2supply_align.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 5_2supply_align.pdf
 uid: a248da1c-27a4-2c4a-18c3-3898137fae5c

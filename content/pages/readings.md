@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 1a7488dd-4dca-eb91-694a-a64329cc840f
 ---
@@ -60,7 +63,7 @@ Systems Change Principles
 
 Dennis, Pascal. "The Birth of Lean Production," and "The Lean Production System." Chapters 1 and 2 in _Lean Production Simplified: A Plain Language Guide to the World's Most Powerful Production System_. New York: Productivity Press, 2002.
 
-Breyfogle, Forrest W, III. "Six Sigma Overview and S4/IEE Implementation." Chapter 1 in _Implementing Six Sigma: Smarter Solutions Using Statistical Methods._ 2nd ed. Hoboken, NJ: John Wiley and Sons, 2003.
+Breyfogle, Forrest W, III. "Six Sigma Overview and S{{< sup "4" >}}/IEE Implementation." Chapter 1 in _Implementing Six Sigma: Smarter Solutions Using Statistical Methods._ 2nd ed. Hoboken, NJ: John Wiley and Sons, 2003.
 
 Wheeler, Donald. "The Purpose of Analysis is Insight." Chapter 3 in _Understanding Variation: The Key to Managing Chaos._ Knoxville, TN: SPC Press, 1993.
 
