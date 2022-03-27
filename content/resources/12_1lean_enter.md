@@ -15,6 +15,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f7b5a49-6215-45bb-6b4a-77385f498c34
 resourcetype: Document
 title: 12_1lean_enter.pdf
 uid: 15ca6cf7-c38d-c67b-9249-79d69ea35be4

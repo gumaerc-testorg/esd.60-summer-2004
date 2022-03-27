@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f7b5a49-6215-45bb-6b4a-77385f498c34
 resourcetype: Document
 title: 5_2supply_align.pdf
 uid: a248da1c-27a4-2c4a-18c3-3898137fae5c

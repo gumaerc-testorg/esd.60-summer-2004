@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f7b5a49-6215-45bb-6b4a-77385f498c34
 resourcetype: Document
 title: 4_2frontline_lead.pdf
 uid: b690711b-a881-215e-7287-c0e5f984c16b

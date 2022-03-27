@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f7b5a49-6215-45bb-6b4a-77385f498c34
 resourcetype: Document
 title: 4_3know_drive.pdf
 uid: 81f71787-1ce0-47cd-81a6-4c492da9df48

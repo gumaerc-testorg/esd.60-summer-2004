@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f7b5a49-6215-45bb-6b4a-77385f498c34
 resourcetype: Document
 title: 2_2change_models.pdf
 uid: c8163ef6-346f-e5e3-9bea-34f6830acc33

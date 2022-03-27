@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f7b5a49-6215-45bb-6b4a-77385f498c34
 resourcetype: Document
 title: 5_3unionmanagmnt.pdf
 uid: 6382ab5d-c3b6-0190-30f8-cdaa8445327c
