@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/esd-60-lean-six-sigma-processes-summer-2004/a6db258ddd725579616d8399c74ae5a5_esd-60su04-th.jpg
+file: /courses/esd-60-lean-six-sigma-processes-summer-2004/a6db258ddd725579616d8399c74ae5a5_esd-60su04-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Diagram of physical and social systems. (Image courtesy of Joel Cutcher-Gershenfeld
@@ -15,3 +15,5 @@ resourcetype: Image
 title: esd-60su04-th.jpg
 uid: a6db258d-dd72-5579-616d-8399c74ae5a5
 ---
+New image Upload
+

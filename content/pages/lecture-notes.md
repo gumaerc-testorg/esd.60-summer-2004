@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -54,7 +55,7 @@ Class Experience with Lean/Six Sigma
   
 Historical Perspective on Lean/Six Sigma  
   
-_Lean Thinking_ ([PDF]({{< baseurl >}}/resources/1_1leanthinking))  
+_Lean Thinking_ ({{% resource_link f7f840bd-1685-a22f-07f9-80feb522f237 "PDF" %}})  
   
 Mass and Lean in Historical Context  
   
@@ -79,7 +80,7 @@ Six Sigma Principles
 Systems Change Principles
 {{< tdclose >}}
 {{< tdopen >}}
-_Six Sigma Principles_ ([PDF]({{< baseurl >}}/resources/2_1six_sigma))  
+_Six Sigma Principles_ ({{% resource_link 3d4677f3-e130-257d-ec90-4a0cab3107f5 "PDF" %}})  
   
 Variance and Variance Reduction  
   
@@ -87,7 +88,7 @@ DMIAC Process - y=f(x)
   
 Six Sigma Measurement Tools  
   
-_Systems Change Principles_ ([PDF]({{< baseurl >}}/resources/2_2change_models))  
+_Systems Change Principles_ ({{% resource_link c8163ef6-346f-e5e3-9bea-34f6830acc33 "PDF" %}})  
   
 Stakeholders and Systems  
   
@@ -97,7 +98,7 @@ Strategy, Structure and Process
   
 "Top-Down" and "Bottom-Up" Change  
   
-_Socio-Technical Dynamics_ ([PDF]({{< baseurl >}}/resources/2_3sociotech))
+_Socio-Technical Dynamics_ ({{% resource_link a53a147b-d6c3-a392-9bef-8c08778343cf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Joel Cutcher-Gershenfeld
@@ -112,9 +113,9 @@ Prof. Joel Cutcher-Gershenfeld
 "Pre-Stability" Considerations
 {{< tdclose >}}
 {{< tdopen >}}
-"Brownfield"/"Greenfield" Contrast ([PDF]({{< baseurl >}}/resources/3_1brownfield_g))  
+"Brownfield"/"Greenfield" Contrast ({{% resource_link 60295ebe-1908-48f0-3dd4-595576ed8d6d "PDF" %}})  
   
-Active and Passive Opposition to Lean/Six Sigma ([PDF]({{< baseurl >}}/resources/3_2active_passiv))  
+Active and Passive Opposition to Lean/Six Sigma ({{% resource_link 9b7ae35e-3c2a-e581-61b7-b01b1abae36e "PDF" %}})  
   
 Inadequate or Missing "Social Infrastructure" - Forums, Capabilities, Relationships
 {{< tdclose >}}
@@ -137,11 +138,11 @@ Prof. Joel Cutcher-Gershenfeld
 Team-Based, Knowledge-Driven Work Systems
 {{< tdclose >}}
 {{< tdopen >}}
-Team/Work Group Structure and Roles - Socio-Tech vs Lean Teams ([PDF]({{< baseurl >}}/resources/4_1tech_lean))  
+Team/Work Group Structure and Roles - Socio-Tech vs Lean Teams ({{% resource_link 40146991-d843-b9de-a7cc-f24d3db2ed4d "PDF" %}})  
   
-"Front-Line Leadership Capability and Motivation" by Craig Abler and Thomas Neal ([PDF]({{< baseurl >}}/resources/4_2frontline_lead))  
+"Front-Line Leadership Capability and Motivation" by Craig Abler and Thomas Neal ({{% resource_link b690711b-a881-215e-7287-c0e5f984c16b "PDF" %}})  
   
-Knowledge-Driven Work ([PDF]({{< baseurl >}}/resources/4_3know_drive))
+Knowledge-Driven Work ({{% resource_link 81f71787-1ce0-47cd-81a6-4c492da9df48 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -162,11 +163,11 @@ Craig Abler and Thomas Neal
 Manufacturing Stakeholder Alignment
 {{< tdclose >}}
 {{< tdopen >}}
-Support Function Alignment ([PDF]({{< baseurl >}}/resources/5_1support_fun))  
+Support Function Alignment ({{% resource_link 03b14914-4c84-3fd3-03c4-1d0f79cc42f7 "PDF" %}})  
   
-"Supply Chain Alignment" by Kevin Lennox and Dave Penake ([PDF]({{< baseurl >}}/resources/5_2supply_align))  
+"Supply Chain Alignment" by Kevin Lennox and Dave Penake ({{% resource_link a248da1c-27a4-2c4a-18c3-3898137fae5c "PDF" %}})  
   
-Union-Management Partnership ([PDF - 1.7MB]({{< baseurl >}}/resources/5_3unionmanagmnt))
+Union-Management Partnership ({{% resource_link 6382ab5d-c3b6-0190-30f8-cdaa8445327c "PDF - 1.7MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -188,13 +189,13 @@ Kevin Lennox and Dave Penake
 In-Station Process Control and Standardized Work
 {{< tdclose >}}
 {{< tdopen >}}
-"Standardized Work" by Jessica Dolak and Ben Lathrop ([PDF]({{< baseurl >}}/resources/6_1standard_work))  
+"Standardized Work" by Jessica Dolak and Ben Lathrop ({{% resource_link 4168688e-690d-7438-800d-06b6b87f9015 "PDF" %}})  
   
 Statistical Process Control and "Control Points"  
   
 Andon Response Systems  
   
-"PDCA and Control Point Improvement Processes" by Jeremy Weinstein and Steve Vasovski ([PDF]({{< baseurl >}}/resources/6_3_pdca))
+"PDCA and Control Point Improvement Processes" by Jeremy Weinstein and Steve Vasovski ({{% resource_link c0e0aef4-9842-fe9c-bbbe-83d83bce1ec9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Jessica Dolak and Ben Lathrop  
@@ -213,7 +214,7 @@ Total Productive Maintenance and Standardized Support
 {{< tdopen >}}
 5S's and Waste Walks  
   
-"Preventive Maintenance Principles" by Scott Couzens and Scott Hiroshige ([PDF]({{< baseurl >}}/resources/7_2prevent_main))  
+"Preventive Maintenance Principles" by Scott Couzens and Scott Hiroshige ({{% resource_link 3f41c575-08d4-e413-d85f-58ef51667d9c "PDF" %}})  
   
 Lean Machine Tooling  
   
@@ -240,15 +241,15 @@ Value Streams
 {{< tdopen >}}
 
 
-"Assembly Operations - Takt Time" by Colin Ducharme and Todd Ruddick ([PDF]({{< baseurl >}}/resources/8_1assembly_op))  
+"Assembly Operations - Takt Time" by Colin Ducharme and Todd Ruddick ({{% resource_link 2bbe6804-19d5-0f9e-ecc5-a1d45a463399 "PDF" %}})  
   
-"Machining Operations - Cycle Time" by Tamboura Gaskins and Sean Holly ([PDF]({{< baseurl >}}/resources/8_2maching_optime))  
+"Machining Operations - Cycle Time" by Tamboura Gaskins and Sean Holly ({{% resource_link d1c34f07-8f32-c323-8cfb-17853bacd584 "PDF" %}})  
   
-"Continuous Flow Operations" by Bret Awbrey and Jacob Silber ([PDF]({{< baseurl >}}/resources/8_3cont_flow_op))  
+"Continuous Flow Operations" by Bret Awbrey and Jacob Silber ({{% resource_link 0cf35807-094a-e654-0351-f79e13d0a65c "PDF" %}})  
   
 Engineering Design Operations Service Operations - Cycle Time
 
-"Sustainability and Lean/Six Sigma" by Todd Robinson and Kerry Person ([PDF - 1.0MB]({{< baseurl >}}/resources/8_5sustainable))
+"Sustainability and Lean/Six Sigma" by Todd Robinson and Kerry Person ({{% resource_link cee68298-87ec-7493-8630-67d6e206f205 "PDF - 1.0MB" %}})
 
 
 {{< tdclose >}}
@@ -274,9 +275,9 @@ Material Flow
 Kanban/Supply Chain Sequencing  
   
 
-"Presentation of Parts and Parts Marketplace" by Min Shao and Jason Kary ([PDF]({{< baseurl >}}/resources/9_2part_pre_mark))  
+"Presentation of Parts and Parts Marketplace" by Min Shao and Jason Kary ({{% resource_link daea905f-ee78-1ae1-6205-a76c8592ad4d "PDF" %}})  
   
-"Hejunka/Product Leveling" by Amy Reyner and Kweku Fleming ([PDF]({{< baseurl >}}/resources/9_3product_level))
+"Hejunka/Product Leveling" by Amy Reyner and Kweku Fleming ({{% resource_link f2afc247-105b-552c-727a-4214e5101b76 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -295,15 +296,15 @@ Amy Reyner and Kweku Fleming
 Knowledge and Information Flow
 {{< tdclose >}}
 {{< tdopen >}}
-"Kaizen-Teian Improvement Systems" by Yue Cathy Chang and Johnson Wu ([PDF]({{< baseurl >}}/resources/10_1kaizen_wu))  
+"Kaizen-Teian Improvement Systems" by Yue Cathy Chang and Johnson Wu ({{% resource_link 3a2a0391-4610-1b3a-9e04-1ea4fe5f7811 "PDF" %}})  
   
-"Hoshin Planning/Policy Deployment" by Ian MacDonald and Howard Shen ([PDF - 1.7 MB]({{< baseurl >}}/resources/10_2hoshin_plan))  
+"Hoshin Planning/Policy Deployment" by Ian MacDonald and Howard Shen ({{% resource_link 16917781-addc-788c-d83b-560440781d1b "PDF - 1.7 MB" %}})  
   
 Enterprise Resource Planning Tools  
   
 Design for Manufacture  
   
-"Performance Metric Feedback" by Krishnan Raghunathan and Linsey Rubenstein ([PDF]({{< baseurl >}}/resources/10_5perform_met))
+"Performance Metric Feedback" by Krishnan Raghunathan and Linsey Rubenstein ({{% resource_link d4c493ce-f117-9f84-a774-e2a19ddf7920 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Yue Cathy Chang and Johnson Wu  
@@ -330,7 +331,7 @@ Customer "Pull" Systems
 Auto Industry
 {{< tdclose >}}
 {{< tdopen >}}
-_Forecast "Push," Customer "Pull," and Hybrid Models_ by Bruce Pan and Nicholas Svensson ([PDF]({{< baseurl >}}/resources/11_1forecast_mod))  
+_Forecast "Push," Customer "Pull," and Hybrid Models_ by Bruce Pan and Nicholas Svensson ({{% resource_link 9e74d72f-5263-557e-6237-385725734fa9 "PDF" %}})  
   
 The Three-Day Car
 {{< tdclose >}}
@@ -374,7 +375,7 @@ Transitions from "Pre-Stability" to Stability to Flow to Pull (#13), and Lean En
 {{< tdopen >}}
 Within-Function and Cross-Functional Challenges in the Transitions from "Pre-Stability" to Stability to Flow to Pull  
   
-_Lean Enterprise Alignment_ ([PDF]({{< baseurl >}}/resources/12_1lean_enter))  
+_Lean Enterprise Alignment_ ({{% resource_link 15ca6cf7-c38d-c67b-9249-79d69ea35be4 "PDF" %}})  
   
 Enterprise Structure and Alignment  
   
@@ -412,7 +413,7 @@ LFM Alumni Panel
 Lean Simulation
 {{< tdclose >}}
 {{< tdopen >}}
-A Simulation Exercise Designed to Illustrate Lean Principles in Manufacturing Operations ([PDF 1 of 4 - 1.2 MB]({{< baseurl >}}/resources/13_1conclude1)) ([PDF 2 of 4 - 1.3 MB]({{< baseurl >}}/resources/13_1conclude2)) ([PDF 3 of 4 - 1.4 MB]({{< baseurl >}}/resources/13_1conclude3)) ([PDF 4 of 4 - 1.7 MB]({{< baseurl >}}/resources/13_1conclude4))
+A Simulation Exercise Designed to Illustrate Lean Principles in Manufacturing Operations ({{% resource_link 0e32e64a-178c-7b43-dafa-9a81314cbd32 "PDF 1 of 4 - 1.2 MB" %}}) ({{% resource_link b3e07919-cdca-cb91-6079-e75dd6bbdb4d "PDF 2 of 4 - 1.3 MB" %}}) ({{% resource_link 3aae5f4d-dac0-be7e-9f3f-251f1554694f "PDF 3 of 4 - 1.4 MB" %}}) ({{% resource_link 62b39890-0cc0-d0ef-2000-7a564b6e5e03 "PDF 4 of 4 - 1.7 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Joel Cutcher-Gershenfeld

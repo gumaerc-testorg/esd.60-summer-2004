@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A table of bibliographic citations organized by lecture topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

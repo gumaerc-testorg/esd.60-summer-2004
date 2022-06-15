@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -101,7 +102,7 @@ Class Participation
 
 {{< tableclose >}}
 
-Additional details on course assignments can be found in the [assignments]({{< baseurl >}}/pages/assignments) section.
+Additional details on course assignments can be found in the {{% resource_link c97c64d6-e371-bd85-7368-8871879b7fe8 "assignments" %}} section.
 
 Class Participation
 -------------------

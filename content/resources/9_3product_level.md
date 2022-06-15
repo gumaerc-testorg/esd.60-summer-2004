@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/esd-60-lean-six-sigma-processes-summer-2004/f2afc247105b552c727a4214e5101b76_9_3product_level.pdf
+file: /courses/esd-60-lean-six-sigma-processes-summer-2004/f2afc247105b552c727a4214e5101b76_9_3product_level.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
