@@ -8,6 +8,7 @@ file: /courses/esd-60-lean-six-sigma-processes-summer-2004/9b7ae35e3c2ae58161b7b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 9b7ae35e-3c2a-e581-61b7-b01b1abae36e
 ---
 The learning objectives of this file are:
 Explore predictable reactions to performance data, and utilize the leadership transition curve to anticipate and address opposition to lean and six sigma initiatives.
-

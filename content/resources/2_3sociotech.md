@@ -9,6 +9,7 @@ file: /courses/esd-60-lean-six-sigma-processes-summer-2004/a53a147bd6c3a3929bef8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: a53a147b-d6c3-a392-9bef-8c08778343cf
 ---
 The learning objectives of this file include:
 Build awareness of social, technical and socio-tech milestones in the launch of a lean work cell, examine and learn from data on milestone accomplishment along all three dimensions, and identify implications for other types of work/organization.
-

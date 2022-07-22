@@ -10,6 +10,7 @@ file: /courses/esd-60-lean-six-sigma-processes-summer-2004/0e32e64a178c7b43dafa9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: 0e32e64a-178c-7b43-dafa-9a81314cbd32
 ---
 This file includes the following topics:
 A core framework, a learning experiment, a significant accomplishment: 35 SPLs, course review and reflections, a core framework ? part I, review of lean thinking, six sigma systems principles, and systems change principles: key concepts and systems change debate.
-

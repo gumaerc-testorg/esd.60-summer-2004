@@ -11,10 +11,10 @@ image_metadata:
   image-alt: A Venn diagram with 'Flow and Pull' nested inside 'Stability', nested
     inside 'Infrastructure'.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-60su04.jpg
 uid: 4c4ead75-abd4-251d-779d-6cb41e69cff0
 ---
 Diagram of physical and social systems. (Image courtesy of Joel Cutcher-Gershenfeld and Chris Musso.)
-

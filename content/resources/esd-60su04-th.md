@@ -10,10 +10,10 @@ image_metadata:
   image-alt: A Venn diagram with 'Flow and Pull' nested inside 'Stability', nested
     inside 'Infrastructure'.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-60su04-th.jpg
 uid: a6db258d-dd72-5579-616d-8399c74ae5a5
 ---
 New image Upload
-
