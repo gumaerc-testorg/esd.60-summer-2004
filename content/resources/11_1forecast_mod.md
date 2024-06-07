@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-60-lean-six-sigma-processes-summer-2004/9e74d72f5263557e6237385725734fa9_11_1forecast_mod.pdf
+file_size: 575899
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -6,6 +6,7 @@ description: 'The learning objectives of this file are:
   lean/six sigma implementation, and consideration of strategy, structure and process
   for team-based work systems.'
 file: /courses/esd-60-lean-six-sigma-processes-summer-2004/40146991d843b9dea7ccf24d3db2ed4d_4_1tech_lean.pdf
+file_size: 328124
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
