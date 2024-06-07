@@ -4,6 +4,7 @@ description: 'Lecture slides in five parts containing: an introduction and descr
   of the learning objectives, key concepts and princples, exercises, common disconnects,
   metrics and concluding comments.'
 file: /courses/esd-60-lean-six-sigma-processes-summer-2004/c8163ef6346fe5e39bea34f6830acc33_2_2change_models.pdf
+file_size: 352323
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

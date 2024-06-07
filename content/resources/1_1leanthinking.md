@@ -7,6 +7,7 @@ description: 'The learning objectives of this file include:
   to application examples (5S?s, 7 wastes, and others), and increased ability to teach
   others about lean thinking.'
 file: /courses/esd-60-lean-six-sigma-processes-summer-2004/f7f840bd1685a22f07f980feb522f237_1_1leanthinking.pdf
+file_size: 741023
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

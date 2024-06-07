@@ -6,6 +6,7 @@ description: 'The learning objectives of this file include:
 
   Understanding of the "brownfield" challenge in the auto industry.'
 file: /courses/esd-60-lean-six-sigma-processes-summer-2004/60295ebe190848f03dd4595576ed8d6d_3_1brownfield_g.pdf
+file_size: 367867
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
