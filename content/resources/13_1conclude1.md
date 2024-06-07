@@ -7,6 +7,7 @@ description: 'This file includes the following topics:
   six sigma systems principles, and systems change principles: key concepts and systems
   change debate.'
 file: /courses/esd-60-lean-six-sigma-processes-summer-2004/0e32e64a178c7b43dafa9a81314cbd32_13_1conclude1.pdf
+file_size: 1261735
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
