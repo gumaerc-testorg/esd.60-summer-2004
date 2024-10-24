@@ -8,7 +8,7 @@ description: 'This file includes the following topics:
   detail on lean enterprise value, key principles, enterprise stakeholders, enterprise
   example: JSF program, applying course principles across the enterprise, inventory
   profile across UK auto supply chain,  and remember Dr. Deming?s lesson.'
-file: /courses/esd-60-lean-six-sigma-processes-summer-2004/15ca6cf7c38dc67b924979d69ea35be4_12_1lean_enter.pdf
+file: /ol-ocw-studio-app/courses/esd-60-lean-six-sigma-processes-summer-2004/15ca6cf7c38dc67b924979d69ea35be4_12_1lean_enter.pdf
 file_size: 507392
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/esd-60-lean-six-sigma-processes-summer-2004/a6db258ddd725579616d8399c74ae5a5_esd-60su04-th.jpg
+file: /ol-ocw-studio-app/courses/esd-60-lean-six-sigma-processes-summer-2004/a6db258ddd725579616d8399c74ae5a5_esd-60su04-th.jpg
 file_size: 8009
 file_type: image/jpeg
 image_metadata:
