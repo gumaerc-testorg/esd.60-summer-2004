@@ -6,7 +6,7 @@ description: 'This file includes review of the following topics:
   design operations cycle time, sustainability
 
   Kanban/supply chain sequencing, and parts marketplaces and parts presentation'
-file: /ol-ocw-studio-app/courses/esd-60-lean-six-sigma-processes-summer-2004/3aae5f4ddac0be7e9f3f251f1554694f_13_1conclude3.pdf
+file: /courses/esd-60-lean-six-sigma-processes-summer-2004/3aae5f4ddac0be7e9f3f251f1554694f_13_1conclude3.pdf
 file_size: 1444798
 file_type: application/pdf
 learning_resource_types:

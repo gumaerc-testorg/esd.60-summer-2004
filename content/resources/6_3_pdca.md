@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/esd-60-lean-six-sigma-processes-summer-2004/c0e0aef49842fe9cbbbe83d83bce1ec9_6_3_pdca.pdf
+file: /courses/esd-60-lean-six-sigma-processes-summer-2004/c0e0aef49842fe9cbbbe83d83bce1ec9_6_3_pdca.pdf
 file_size: 797625
 file_type: application/pdf
 learning_resource_types:

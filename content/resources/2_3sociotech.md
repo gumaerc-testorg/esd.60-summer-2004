@@ -5,7 +5,7 @@ description: 'The learning objectives of this file include:
   Build awareness of social, technical and socio-tech milestones in the launch of
   a lean work cell, examine and learn from data on milestone accomplishment along
   all three dimensions, and identify implications for other types of work/organization.'
-file: /ol-ocw-studio-app/courses/esd-60-lean-six-sigma-processes-summer-2004/a53a147bd6c3a3929bef8c08778343cf_2_3sociotech.pdf
+file: /courses/esd-60-lean-six-sigma-processes-summer-2004/a53a147bd6c3a3929bef8c08778343cf_2_3sociotech.pdf
 file_size: 519080
 file_type: application/pdf
 learning_resource_types:
