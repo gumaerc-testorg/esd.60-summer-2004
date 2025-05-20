@@ -2,7 +2,7 @@
 content_type: resource
 description: Diagram of physical and social systems. (Image courtesy of Joel Cutcher-Gershenfeld
   and Chris Musso.)
-file: /ol-ocw-studio-app/courses/esd-60-lean-six-sigma-processes-summer-2004/4c4ead75abd4251d779d6cb41e69cff0_esd-60su04.jpg
+file: /courses/esd-60-lean-six-sigma-processes-summer-2004/4c4ead75abd4251d779d6cb41e69cff0_esd-60su04.jpg
 file_size: 100346
 file_type: image/jpeg
 image_metadata:
