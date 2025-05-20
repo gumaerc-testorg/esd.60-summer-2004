@@ -4,7 +4,7 @@ description: 'The learning objectives of this file include:
 
   Appreciation of the mixed-motive nature of union-management relations, and understanding
   of the potential and limits on innovation in unionized settings.'
-file: /ol-ocw-studio-app/courses/esd-60-lean-six-sigma-processes-summer-2004/6382ab5dc3b6019030f8cdaa8445327c_5_3unionmanagmnt.pdf
+file: /courses/esd-60-lean-six-sigma-processes-summer-2004/6382ab5dc3b6019030f8cdaa8445327c_5_3unionmanagmnt.pdf
 file_size: 1742634
 file_type: application/pdf
 learning_resource_types:
