@@ -4,7 +4,7 @@ description: 'The learning objectives of this file are:
 
   Introduction to fundamental changes in the nature of work, the global diffusion
   of knowledge-driven work systems:research findings, and conclusion.'
-file: /courses/esd-60-lean-six-sigma-processes-summer-2004/81f717871ce047cd81a64c492da9df48_4_3know_drive.pdf
+file: /ol-ocw-studio-app/courses/esd-60-lean-six-sigma-processes-summer-2004/81f717871ce047cd81a64c492da9df48_4_3know_drive.pdf
 file_size: 408816
 file_type: application/pdf
 learning_resource_types:
